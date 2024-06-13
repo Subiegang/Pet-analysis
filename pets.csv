@@ -1,0 +1,69 @@
+PetID,Name,Birthdate,Price,Species,SpecialFeature,Age
+1,Luna,2/14/2020,57.81,Bird,flies,4
+2,Simba,1/8/2022,36.23,Reptile,cold-blooded,2
+3,Max,7/17/2021,46.94,Small Animal,yes,2
+4,Ginger,11/21/2018,181.16,Dog,Foxhound,5
+5,Shadow,3/12/2022,52.72,Cat,Burmilla,2
+6,Charlie,9/2/2019,163.06,Small Animal,yes,4
+7,Bella,6/5/2019,43.02,Rabbit,no,5
+8,Lucky,2/1/2022,145.88,Small Animal,yes,2
+9,Oliver,12/7/2020,85.52,Cat,Cymric,3
+10,Daisy,1/15/2023,9.47,Rabbit,no,1
+11,Rocky,12/27/2018,107.71,Reptile,warm,5
+12,Molly,4/19/2021,84.87,Small Animal,yes,3
+13,Tucker,2/14/2023,30.01,Cat,Korat,1
+14,Lucy,7/28/2020,121.19,Rabbit,no,3
+15,Leo,11/6/2022,59.33,Small Animal,yes,1
+16,Sadie,5/22/2019,42.22,Reptile,warm,5
+17,Coco,12/4/2018,129.6,Cat,Siberian Forest Cat,5
+18,Buddy,5/11/2020,80.43,Small Animal,yes,4
+19,Daisy,3/9/2021,77.96,Bird,walks,3
+20,Pepper,8/29/2022,108.48,Rabbit,yes,1
+21,Zeus,6/10/2020,70.92,Dog,Havanese,4
+22,Bailey,12/2/2021,96.55,Bird,flies,2
+23,Ruby,12/20/2022,180.27,Rabbit,no,1
+24,Thor,3/28/2023,150.2,Small Animal,yes,1
+25,Rosie,10/14/2018,94.7,Reptile,warm,5
+26,Bandit,1/31/2019,101.44,Small Animal,yes,5
+27,Chloe,1/23/2020,137.74,Cat,Dragon Li,4
+28,Duke,5/7/2021,117.52,Rabbit,yes,3
+29,Maggie,3/20/2023,22.81,Dog,Keeshond,1
+30,Milo,9/12/2018,19.76,Small Animal,yes,5
+31,Ginger,8/8/2020,29.17,Reptile,warm,3
+32,Blue,9/16/2021,53.06,Small Animal,yes,2
+33,Lola,7/21/2019,39.19,Rabbit,yes,4
+34,Harley,7/1/2022,133.89,Cat,Peterbald,1
+35,Abby,9/19/2020,160.15,Small Animal,yes,3
+36,Finn,4/2/2023,88.1,Bird,walks,1
+37,Roxy,5/10/2022,121.56,Small Animal,yes,2
+38,Winston,12/14/2018,25.44,Reptile,warm,5
+39,Mia,4/1/2019,78.83,Rabbit,no,5
+40,Bear,10/30/2021,137.12,Cat,Colorpoint Shorthair,2
+41,Stella,1/2/2023,40.95,Small Animal,yes,1
+42,Jack,4/27/2020,73.57,Dog,Dalmatian,4
+43,Nala,9/11/2022,60.23,Rabbit,yes,1
+44,Rusty,6/24/2019,137.79,Small Animal,yes,5
+45,Gatsby,11/1/2018,140.63,Reptile,cold-blooded,5
+46,Koda,2/18/2021,111.36,Small Animal,yes,3
+47,Marley,1/28/2023,31.76,Cat,Selkirk Rex,1
+48,Gigi,2/14/2019,152.37,Rabbit,yes,5
+49,Samson,11/11/2020,129.66,Small Animal,yes,3
+50,Phoebe,6/8/2022,45.08,Bird,walks,1
+51,Baxter,10/3/2018,83.01,Rabbit,no,5
+52,Cleo,6/23/2021,127.47,Small Animal,yes,2
+53,Bruno,11/17/2019,83.63,Dog,Collie,4
+54,Luna,4/4/2022,159.1,Cat,Highlander,2
+55,Zeus,2/7/2023,53.14,Small Animal,yes,1
+56,Jasper,2/23/2020,86.02,Reptile,cold-blooded,4
+57,Poppy,1/11/2021,17.36,Small Animal,yes,3
+58,Cleo,9/24/2018,109.97,Rabbit,yes,5
+59,Zeus,1/25/2022,56.38,Cat,Sokoke,2
+60,Sadie,7/9/2020,18.83,Bird,flies,3
+61,Mimi,3/24/2021,147.15,Small Animal,no,3
+62,Max,9/16/2019,136.24,Reptile,warm,4
+63,Taz,3/6/2023,74.33,Rabbit,yes,1
+64,Poppy,11/19/2022,87.6,Dog,Chow Chow,1
+65,Sasha,12/9/2018,56.94,Small Animal,yes,5
+66,Lulu,5/25/2020,37.72,Cat,Javanese,4
+67,Thor,11/3/2021,98.18,Bird,flies,2
+68,Peanut,5/10/2019,,2
